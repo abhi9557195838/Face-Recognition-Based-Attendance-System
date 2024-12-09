@@ -1,4 +1,4 @@
-CREATE TABLE `aic_cases` (
+CREATE TABLE `details` (
   `id` int NOT NULL AUTO_INCREMENT,
   `product` varchar(255) DEFAULT NULL,
   `state` varchar(255) DEFAULT NULL,
